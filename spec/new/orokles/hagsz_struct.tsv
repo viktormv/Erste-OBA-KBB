@@ -1,0 +1,25 @@
+ELHUNYT_NEVE	VARCHAR2(100)	elhunyt ügyfél neve(WX)
+EBH_AZONOSITO	VARCHAR2(100)	EBH azonosítója
+SZAMLA_SZAMA	VARCHAR2(100)	számla/betét száma
+ELHAL_IDO	DATE	elhalálozás időpontja
+JOG_HAT_TIP	VARCHAR2(100)	jogerős határozat típusa
+JOG_HAT_SZAM	VARCHAR2(100)	jogerős határozat száma
+JOG_EMEL_IDO	DATE	jogerőre emelkedés időpontja
+OROKOS_NEVE	VARCHAR2(100)	örökös neve
+OROK_EBH_AZON	VARCHAR2(100)	EBH azonosítója
+SZUL_HELY	VARCHAR2(100)	születési helye
+SZUL_DATUM	VARCHAR2(100)	születési dátuma
+SZUL_NEVE	VARCHAR2(100)	születési neve
+ANYJA_NEVE	VARCHAR2(100)	anyja neve
+NEMZETISEG	VARCHAR2(100)	nemzetisége/   állampolgársága
+SZEM_AZON_OKM_SZAM	VARCHAR2(100)	személyi azonosító okmány szám/útlevélszám
+LAK_IRSZ	VARCHAR2(10)	állandó lakhely irányítószáma
+LAK_TELEPULES	VARCHAR2(100)	állandó lakhely települése
+LAK_CIM	VARCHAR2(100)	állandó lakhely közterület neve, száma
+RESZ_ARANY	VARCHAR2(100)	részesedési aránya (%)
+OROKOLT_OSSZEG	NUMBER	örökölt összeg
+OROK_OSSZ_DEV_NEME	VARCHAR2(10)	örökölt összeg devizaneme
+KIFIZETETT_OSSZEG	NUMBER	kifizetett összeg
+KIFIZETES_IDO	DATE	kifizetés  időpontja
+KUL_BET_KEZ_LEJ	DATE	külön betétként kezelés lejárata
+

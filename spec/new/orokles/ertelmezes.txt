@@ -1,0 +1,4 @@
+
+    Az elsőben azok vannak, ahol az RB modulban lekötött betétként az elhalálozott nevén maradt a betét. Ebben az esetben csak az arány van rögzítve a táblában, ami szerint meg kell osztani az örökösök között (van olyan, ahol tőke és kamat külön örökösé – ez jelölve van, erről még beszéljünk. Nézzétek meg a táblában). Ebben az esetben addig kell külön betétként kezelni az örökös összes többi betétjétől, amíg a jogerőre emelkedés időpontja + 365 nap vagy a next_roll_date el nem „jön” (kettő közül a távolabbi).
+    A második az, ahol az elhalálozott számlájáról elvezetik a pénzt. Itt az örökölt összegből ki kell vonni a kifizetett összeget, ezt kell a jelentében feltüntetni. A „külön betétként kezelés lejárata” dátumig kell külön betétként kezelni az örökös összes többi betétjétől, utána össze kell vonni vele.
+
