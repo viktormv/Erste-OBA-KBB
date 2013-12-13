@@ -1,0 +1,7 @@
+CLIENT_NO	VARCHAR2(20)	Ügyfélazonosító
+ACCOUNT_NO	VARCHAR2(25)	Számlaszám
+EGYENLEG	NUMBER	Egyenleg HUF-ban
+KAMAT	NUMBER	Kamat
+FORRASADO	NUMBER	Kamatadó + Eho
+ZAROLT	NUMBER	Zárolt összeg
+
